@@ -24,4 +24,5 @@ p#"featured-property"{
   text: center;
   font-size: smaller;
   width: 800px;
+  display: block;
 }
