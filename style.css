@@ -22,7 +22,7 @@ nav a{
 }
 section#"featured-property"{
   text-align: center;
-  font-size: smaller;
+  /*font-size: smaller;
   width: 800px;
-  display: block;
+  display: block;*/
 }
