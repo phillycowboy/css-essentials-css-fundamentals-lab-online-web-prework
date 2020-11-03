@@ -26,3 +26,7 @@ section#"featured-property"{
   width: 800px;
   display: block;*/
 }
+
+p#"featured-property"{
+  text-align: center;
+}
