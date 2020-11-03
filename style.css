@@ -17,6 +17,6 @@ nav{
   padding-right: 10px;
 
 }
-a{
+a.nav{
   background-color: grey;
 }
