@@ -30,4 +30,5 @@ section#"featured-property"{
 p#"featured-property"{
   text-align: center;
   display: block;
+  width: auto;
 }
