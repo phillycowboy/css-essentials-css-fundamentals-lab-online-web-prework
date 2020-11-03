@@ -32,5 +32,5 @@ text-align: center;
 
 #details>div{
   float: left;
-  padding-left: 100px;
+  padding-left:auto;
 }
