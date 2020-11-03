@@ -22,6 +22,6 @@ nav a{
 }
 
 p#"featured-property"{
-
+  color: red;
   width: 800px;
 }
