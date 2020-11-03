@@ -20,15 +20,8 @@ nav{
 nav a{
   background-color: grey;
 }
-section#"featured-property"{
-  text-align: center;
-  /*font-size: smaller;
-  width: 800px;
-  display: block;*/
-}
 
 p#"featured-property"{
-  text-align: center;
-  display: block;
+
   width: 800px;
 }
