@@ -30,7 +30,7 @@ nav a{
   background-color: red;
   display: block;
   float: left;
-  text-align: center;
-  margin: auto;
+  /*text-align: center;
+  margin: auto;*/
 
 }
