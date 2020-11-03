@@ -28,7 +28,7 @@ nav a{
 }
 #details{
 text-align: center;
-background-color: red;
+;
 }
 
 #details>div{
@@ -38,4 +38,5 @@ background-color: red;
   text-align: center;*/
   padding-right: 7%;
   padding-left: 10%;
+  background-color: red;
 }
