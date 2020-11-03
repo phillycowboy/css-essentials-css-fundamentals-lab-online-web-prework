@@ -29,6 +29,8 @@ nav a{
 #details{
 text-align: center;
 width: 100%
+}
 
-
+#details>div{
+  float: left;
 }
