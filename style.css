@@ -33,9 +33,9 @@ text-align: center;
 
 #details>div{
   float: left;
-  padding-right: 100px;
+  /*padding-right: 100px;
   padding-left: 100px;
   margin-left: auto;
-  margin-right: auto;
+  margin-right: auto;*/
   background-color: red;
 }
