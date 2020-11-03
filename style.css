@@ -28,4 +28,5 @@ nav a{
 }
 .footer{
   text-align: center;
+  position: fixed;
 }
