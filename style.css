@@ -27,8 +27,8 @@ nav a{
   margin-right: auto;
 }
 #details > div{
-  /*background-color: red;
-  display: block;*/
+  background-color: red;
+  display: block;
   float: left;
 text-align: center;
 margin-bottom: 25px;
