@@ -38,4 +38,5 @@ text-align: center;
   margin-left: auto;
   margin-right: auto;*/
   background-color: red;
+  width: calc(100%/4);
 }
