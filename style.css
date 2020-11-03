@@ -27,5 +27,5 @@ p#featured-property{
   font-size: 20px;*/
   display: block;
   margin:  auto;
-  text-decoration-color: red;
+  color: red;
 }
