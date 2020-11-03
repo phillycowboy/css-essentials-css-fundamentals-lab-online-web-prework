@@ -20,7 +20,7 @@ nav{
 nav a{
   background-color: grey;
 }
-p#"featured-property"{
+section#"featured-property"{
   text-align: center;
   font-size: smaller;
   width: 800px;
